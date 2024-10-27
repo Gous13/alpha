@@ -3,3 +3,5 @@ Firebase Firestore is a flexible NoSQL cloud database that syncs data in real-ti
 2.	PostgreSQL:
 PostgreSQL is a powerful relational database known for its efficiency in handling structured data. It is suitable for complex queries and analytics, processing user-specific safety data and generating detailed reports. PostgreSQL ensures the system can scale effectively as user data increases.
 
+
+SRIT ANANTAPUR ENG COLLEGE
