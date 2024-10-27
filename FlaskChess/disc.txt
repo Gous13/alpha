@@ -1,0 +1,5 @@
+1.	Firebase Firestore:
+Firebase Firestore is a flexible NoSQL cloud database that syncs data in real-time across apps. It’s perfect for real-time location tracking, reporting incidents, and storing safety analytics. Firebase allows users to receive immediate updates about changes in their safety status.
+2.	PostgreSQL:
+PostgreSQL is a powerful relational database known for its efficiency in handling structured data. It is suitable for complex queries and analytics, processing user-specific safety data and generating detailed reports. PostgreSQL ensures the system can scale effectively as user data increases.
+
